@@ -18,7 +18,7 @@ https://public.tableau.com/app/profile/isabela.miranda.stephan/viz/NYC_Airbnb_16
 ## Database: 
 Foi utilizada o database "Airbnb Listings in New York City", extraido de dados públicos disponibilizado no site do public tableau (https://public.tableau.com/pt-br/s/resources)
 
-## Agradecimentos:
+## Contributor:
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 
 ## Songs listened while programming 🎼: 
