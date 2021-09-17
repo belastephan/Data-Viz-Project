@@ -3,7 +3,7 @@
  
 <img align="right" src="https://portuguessemmisterio.files.wordpress.com/2016/06/nova-york.jpg?w=336&h=223" alt="" width="201" height="201" />
 
-## Status do Projeto: Concluído
+## Project Status: Completed
 
 ## Descrição do Projeto: 
 Este projeto tem como objetivo analisar a base de dados com os hosts disponíveis no airbnb no período de jun/08 a ago/15 na cidade de Nova Iorque, bem como na visão de um investidor analisar e entender qual é o melhor tipo de hospedagem por tipo e localização para se investir e disponibilizar dentro da plataforma em questão. Utilizou-se a ferramenta de BI do Tableau para apresentar os dados e insights de forma estruturada através das visões em tabelas, gráficos, dashboards e histórias. 
@@ -21,4 +21,5 @@ Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 
 ## Songs listened while programming 🎼: 
 https://www.youtube.com/watch?v=nn_0zPAfyo8
+https://www.youtube.com/watch?v=SWSz_PAfgNc
 
