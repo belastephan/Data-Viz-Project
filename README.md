@@ -24,7 +24,7 @@ https://public.tableau.com/app/profile/isabela.miranda.stephan/viz/NYC_Airbnb_16
 ## Database
 The database "Airbnb Listings in New York City" was used, extracted from public data available on the public tableau website (https://public.tableau.com/pt-br/s/resources)
 
-## Contributor
+## Thanks
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 
 ## Songs listened while programming 🎼
