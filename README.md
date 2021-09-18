@@ -17,7 +17,7 @@ To understand the data set It has been carried out data consolidation analysis a
 https://public.tableau.com/app/profile/isabela.miranda.stephan/viz/NYC_Airbnb_16313019598580/Histria1
 
 ## Database: 
-Foi utilizada o database "Airbnb Listings in New York City", extraido de dados públicos disponibilizado no site do public tableau (https://public.tableau.com/pt-br/s/resources)
+The database "Airbnb Listings in New York City" was used, extracted from public data available on the public tableau website (https://public.tableau.com/pt-br/s/resources)
 
 ## Contributor:
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
