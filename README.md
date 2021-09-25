@@ -16,7 +16,7 @@ To understand the data set it has been carried out data consolidation analysis a
 ## Conclusion
 It was concluded that for the first strategy, the one about revenue/cash, the best investment is in an apartment with a private room in State Island. In this situation, it will cost about U$ 300k for an investor and the average price suggested to rent this apartment per day is about U$ 43,75. 
 
-For the second strategy which focuses on thinking about profitability/margin the best investment is in a chalet in Manhattan. In that situation, it will cost about U$ 500k for an investor and the suggestion is to charge below the rental prices on the market nowadays and offer good quality accommodation conditions for a good evaluation as well as the others that already exist.
+For the second strategy which focuses on thinking about profitability/margin the best investment is in a chalet in Manhattan. In that situation, it will cost about U$ 500k for an investor and the suggestion is to charge below the rental prices on the market nowadays and offer good quality accommodation conditions to achieve competitive reviews in comparison to other acommodations available.
 
 ## Link
 https://public.tableau.com/app/profile/isabela.miranda.stephan/viz/NYC_Airbnb_16313019598580/Histria1
